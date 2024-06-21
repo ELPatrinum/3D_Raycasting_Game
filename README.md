@@ -1,6 +1,17 @@
 # 3D_Raycasting_Game
 Cub3d is a project from the 42 Network curriculum where you create a simple 3D game using raycasting with vectors instead of angles. Inspired by classic games like Wolfenstein 3D, this project involves rendering a 3D environment from a 2D map and implementing basic game mechanics.
 
+
+![Uploading Screen_Shot_2024-06-10_at_3.57.06_PM.png…]()
+
+
+![Uploading Screen_Shot_2024-06-10_at_3.57.26_PM.png…]()
+
+
+![Uploading Screen_Shot_2024-06-10_at_3.58.09_PM.png…]()
+
+
+
 ### Project: cub3d (42 Network)
 
 **Cub3d** is a project within the 42 Network's curriculum designed to introduce students to the basics of 3D graphics programming. Inspired by early first-person shooter games like Wolfenstein 3D, this project combines elements of computer graphics, mathematics, and game development to create a simple 3D game environment from a 2D map using the raycasting technique. Here’s an overview tailored to the approach where raycasting is implemented using vectors instead of angles.
